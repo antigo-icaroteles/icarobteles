@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Ícaro Teles  
 
-- 🔭 Eu trabalho atualmente como "Coach" na Kenzie Academy Brazil
-- 🌱 Estudando JavaScript e POO
+- 🔭 À procura de emprego
+- 🌱 Estudando Node.JS e aprimorando meus conhecimentos em React.JS
 - 📫 Contate-me no email: eng.icaroteles@gmail.com
 - 💬 Sobre mim:
 
