@@ -2,13 +2,13 @@
 
 - 🔭 À procura de emprego
 - 🌱 Desenvolvedor Web Júnior
-- 📫 Contate-me no email: eng.icaroteles@gmail.com
+- 📫 Contate-me no email: devicaroteles@gmail.com
 - 💬 Sobre mim:
 
       const eu = {
         nome: "Ícaro",
         sobrenome: "Bomfim Teles",
-        idade: 19,
+        idade: 20,
         estado: "Bahia",
         cidade: "Santo Estêvão",
         interesses: ["Front-End", "Full-Stack"]
